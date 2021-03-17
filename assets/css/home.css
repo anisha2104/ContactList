@@ -1,0 +1,60 @@
+body{
+    margin:0;
+    text-align: center;
+    color:black;
+}
+#page-heading{
+    text-align:center;
+    margin-top:25px;
+    color:grey;
+}
+ul{
+    list-style: none;
+}
+
+table{
+    background-color: lightblue;
+    border-collapse: collapse;
+    width:50%;
+    margin-bottom: 20px;
+    
+}
+
+td,th{
+    border-bottom: 1px solid white;
+}
+
+tr{
+    height:30px;
+}
+
+tr:hover{
+    background-color: grey;
+    color:white
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading{
+    background-color: blue;
+}
+
+input{
+    border:none;
+    box-shadow: 1px 1px 10px #888888;
+    height:25px;
+    width:20%;
+    margin-right: 10px;
+}
+
+button{
+    background-color: black;
+    color:white;
+    border:none;
+    box-shadow: 1px 1px 10px #888888;
+    height:25px;
+    width:5%;
+}
